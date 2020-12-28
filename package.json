@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "random-messages-santiagobarriosgrijalba",
   "version": "1.0.0",
   "description": "random de mensajes ",
   "main": "src/index.js",
@@ -13,8 +13,8 @@
   ],
   "author": "Santiago Barrios <santiagobarriosgrijalba.08@gmail.com>",
   "license": "MIT",
-  "bin":{
+  "bin": {
     "random-msg": "./bin/global.js"
   },
-  "preferGlobal": true  
+  "preferGlobal": true
 }
