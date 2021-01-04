@@ -14,7 +14,15 @@
   "author": "Santiago Barrios <santiagobarriosgrijalba.08@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santiago-Barrios/Npm_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Santiago-Barrios/Npm_package/issues"
+  },
+  "homepage": "https://github.com/Santiago-Barrios/Npm_package#readme"
 }
